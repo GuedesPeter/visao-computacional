@@ -1,5 +1,7 @@
 # Autor: Paulo Eduardo Guedes Peter
 
+
+
 ## Projeto de Inteligência Artificial - Contador de Pessoas
 
 Este projeto trata-se de um contador de pessoas.
@@ -51,3 +53,12 @@ cv2.imshow('video original', img) mostra o frame processado com sobreposições 
 
 cv2.waitKey(20) espera 20 milissegundos antes de processar o próximo frame.
 
+## Redes Sociais:
+INSTAGRAM: 
+https://www.instagram.com/peteredu_/
+
+GITHUB:
+https://github.com/GuedesPeter
+
+E-MAIL:
+eduardopeter91@gmail.com
